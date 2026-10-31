@@ -1,0 +1,87 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft shadow for the sketch pad -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M24,24 h54 a12,12 0 0 1 12,12 v54 a12,12 0 0 1 -12,12 h-54 a12,12 0 0 1 -12,-12 v-54 a12,12 0 0 1 12,-12 z" />
+
+    <!-- Cute Sketchpad Canvas (Clean White with Rounded Corners) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,22 h52 a12,12 0 0 1 12,12 v52 a12,12 0 0 1 -12,12 h-52 a12,12 0 0 1 -12,-12 v-52 a12,12 0 0 1 12,-12 z" />
+    <path
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="1.5"
+        android:pathData="M26,22 h52 a12,12 0 0 1 12,12 v52 a12,12 0 0 1 -12,12 h-52 a12,12 0 0 1 -12,-12 v-52 a12,12 0 0 1 12,-12 z" />
+
+    <!-- Letter 'A' (Character tracing guide) -->
+    <!-- Soft dashed guide line for letter A -->
+    <path
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M27,68 L36,44 L45,68 M30,60 L42,60" />
+    <!-- Bright orange crayon stroke tracing letter A -->
+    <path
+        android:strokeColor="#FF7043"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M27,68 L36,44 L41,57 M30,60 L38,60" />
+
+    <!-- Number '1' (Number tracing guide with cute smile) -->
+    <!-- Soft guide line for 1 -->
+    <path
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M52,48 L58,42 L58,72 M50,72 L66,72" />
+    <!-- Cheerful blue traced path for 1 -->
+    <path
+        android:strokeColor="#1E88E5"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M52,48 L58,42 L58,72 M50,72 L66,72" />
+
+    <!-- Tracing guide start dot (1️⃣ Number Guide Point) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M52,48m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Magic Kids Pencil / Crayon drawing on the pad -->
+    <!-- Pencil Body (Vibrant Yellow) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M78,32 L86,40 L67,59 L59,51 Z" />
+    <!-- Pencil Tip Wood (Beige) -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M59,51 L67,59 L57,63 Z" />
+    <!-- Pencil Tip Graphite / Crayon Lead (Blue ink matching the trace) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M60,57 L63,60 L57,63 Z" />
+    <!-- Pencil Eraser (Pink) -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M78,32 L86,40 L88,38 a2.5,2.5 0 0 0 0,-3.5 L84.5,31 a2.5,2.5 0 0 0 -3.5,0 Z" />
+    <!-- Pencil Metal Band (Silver) -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M77,33 L85,41 L83,43 L75,35 Z" />
+
+    <!-- Sparkle Stars near pencil tip (Magic Drawing Effect) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,64 L55,67 L58,68 L55,69 L54,72 L53,69 L50,68 L53,67 Z" />
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M70,68 L70.8,69.5 L72.5,70 L70.8,70.5 L70,72 L69.2,70.5 L67.5,70 L69.2,69.5 Z" />
+</vector>

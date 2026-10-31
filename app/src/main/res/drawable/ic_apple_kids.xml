@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Stem & Leaf -->
+    <path
+        android:strokeColor="#5D4037"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M12,2 C12,5 14,6 14,7"/>
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M12.5,3.5 C15,3 17,4 17,5.5 C17,7 14,6.5 12.5,3.5 Z"/>
+    <!-- Apple Body -->
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M12,7 C10,5 5,5 5,11 C5,17 9,21 12,21 C15,21 19,17 19,11 C19,5 14,5 12,7 Z"/>
+    <!-- Apple Highlight -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M8,9 C7,11 7,14 8,16 C7,14 7,11 8.5,9.5 Z"/>
+    <!-- Cute eye and smile -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M10,12m-0.8,0a0.8,0.8 0,1 1,1.6 0a0.8,0.8 0,1 1,-1.6 0"/>
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M14,12m-0.8,0a0.8,0.8 0,1 1,1.6 0a0.8,0.8 0,1 1,-1.6 0"/>
+    <path
+        android:strokeColor="#3E2723"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M11,14.5 Q12,16 13,14.5"/>
+</vector>

@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Star body -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M12,2.5 L14.9,8.4 L21.4,9.3 L16.7,13.9 L17.8,20.4 L12,17.3 L6.2,20.4 L7.3,13.9 L2.6,9.3 L9.1,8.4 Z"/>
+    <!-- Cute smiley face -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M9.5,10.5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M14.5,10.5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"/>
+    <!-- Cute smile -->
+    <path
+        android:strokeColor="#4E342E"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M10,13.5 Q12,15.5 14,13.5"/>
+</vector>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_cream">#FFFDF6</color>
+    <color name="bg_drawing">#F4F9FF</color>
+    <color name="bg_counting">#F2FBF6</color>
+    <color name="bg_math">#FDF6FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_surface">#FFFFFFFF</color>
+
+    <!-- Brand / Theme -->
+    <color name="coral_primary">#FF7043</color>
+    <color name="coral_pressed">#F4511E</color>
+    <color name="orange_accent">#FFA726</color>
+    <color name="green_success">#4CAF50</color>
+    <color name="sky_blue">#42A5F5</color>
+    <color name="purple_soft">#AB47BC</color>
+
+    <!-- Text -->
+    <color name="text_dark">#2C3437</color>
+    <color name="text_gray">#78909C</color>
+    <color name="guide_gray">#E2E8F0</color>
+
+    <!-- Palette Colors for Drawing -->
+    <color name="crayon_blue">#1E88E5</color>
+    <color name="crayon_red">#E53935</color>
+    <color name="crayon_green">#43A047</color>
+    <color name="crayon_yellow">#FDD835</color>
+    <color name="crayon_purple">#8E24AA</color>
+    <color name="crayon_orange">#FB8C00</color>
+</resources>
